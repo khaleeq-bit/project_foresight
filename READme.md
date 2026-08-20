@@ -219,3 +219,23 @@ Clone the repository:
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
+
+
+## 15. Demo
+
+Live Demo: https://projectforesight-zcz83s6nilwdajezltjbz7.streamlit.app/
+
+
+## 16. Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
+### Inventory Risk Analysis
+![Inventory Risk Analysis](screenshots/inventory-risk.png)
+
+### Inventory Recommendations
+![Inventory Recommendations](screenshots/recommendations.png)
+
+### Model Performance
+![Model Performance](screenshots/model-performance.png)
