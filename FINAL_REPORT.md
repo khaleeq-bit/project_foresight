@@ -286,3 +286,13 @@ The Random Forest model achieved an R² score of 0.869 on the evaluated test dat
 The system converts demand predictions into practical inventory recommendations and presents the results through an interactive Streamlit dashboard.
 
 The project demonstrates how machine learning can be applied to a practical business problem and transformed into a usable decision-support application.
+
+---
+
+## 20. Final Submission
+
+This repository represents the final submission of the FORESIGHT project.
+
+The project includes the complete source code, trained machine learning model, data processing workflow, inventory risk analysis, interactive Streamlit dashboard, documentation, screenshots, and deployment information.
+
+The application was tested locally and deployed successfully for demonstration.
